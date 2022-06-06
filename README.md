@@ -1,4 +1,4 @@
-# This is my testing reporsitory
+# This is my testing repository
 
 ## 
 
